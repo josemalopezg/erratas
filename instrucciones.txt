@@ -1,0 +1,7 @@
+Haz un fork de mi repositorio erratas y clonalo en tu repositorio local
+Busca al menos una de las erratas que se encuentra en el archivo sql que 
+lleva tu nombre y, una vez almacenado y comiteado, haz todo lo necesario 
+para que termine con un pull request en el que yo vea los cambios que 
+has hecho y los errores que has encontrado
+
+Grandes premios para los ganadores
