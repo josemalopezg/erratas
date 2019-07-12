@@ -34,7 +34,7 @@ CREATE TABLE `amarre` (
 -- Estructura de tabla para la tabla `asignaciones`
 -- 
 
-CREATE TABLA `asignaciones` (
+CREATE TABLE `asignaciones` (
   `codempleado` varchar(50) NOT NULL,
   `letrazona` varchar(3) NOT NULL,
   `numbarcosasign` int(11) NOT NULL,
