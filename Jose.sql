@@ -140,7 +140,8 @@ CREATE TABLE `zona` (
 -- Filtros para la tabla `amarre`
 -- 
 ALTER TABLE `amarre`
-  ADD CONSTRAINT `amarre_ibfk_1` FOREIGN KEI (`propietario`) REFERENCES `socio` (`dni`),
+  ADD CONSTRAINT `amarre_ibfk_1` FOREIGN KEY (`propietario`) REFERENCES 
+`socio` (`dni`),
   ADD CONSTRAINT `amarre_ibfk_2` FOREIGN KEY (`zonaamarre`) REFERENCES `zona` (`letra`);
 
 -- 
